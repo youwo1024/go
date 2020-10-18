@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,alibabacloud.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+
+  # 新加坡区域
+  - IP-CIDR,161.117.227.0/24,no-resolve
+
+  # 香港区域
+  - IP-CIDR,47.75.169.0/24,no-resolve
+  - IP-CIDR,47.75.223.0/24,no-resolve
+  - IP-CIDR,8.210.12.80/32,no-resolve

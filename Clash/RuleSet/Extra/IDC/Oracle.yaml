@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-KEYWORD,oracle
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oracleimg.com
+  - DOMAIN-SUFFIX,oracleinfinity.io
+
+  # 韩国首尔
+  # 140.238.0.1 ~ 140.238.31.254
+  - IP-CIDR,140.238.0.0/19,no-resolve
